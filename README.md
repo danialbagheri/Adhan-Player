@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](screenshots/img1.png "Adhan Player for Shias")
+
 ## Available Scripts
 
 In the project directory, you can run:
